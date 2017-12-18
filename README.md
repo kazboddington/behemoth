@@ -14,6 +14,10 @@ Use ltrace.
 Password is eatmyshorts
 		
 
-Behemoth1 - Aesebootiv
+Behemoth1 - aesebootiv
 ---------
 behemoth1@behemoth.labs.overthewire.org -p 2221
+
+gets(0xffffd5ed, 0xffffd674, 0xf7fc7000, 0xc267
+
+
